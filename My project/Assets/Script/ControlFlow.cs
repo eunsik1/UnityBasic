@@ -32,22 +32,6 @@ public class ControlFlow : MonoBehaviour
     public void Gacha()
 
     {
-        int number = 0;
-        while(number <10)
-        {
-          
-            number++;
-        }
-
-
-
-
-        // 확률이 10%면 로그에 '각청'을 뽑았다!
-        // 확률이 20%면 로그에 '모나'를 뽑았다!
-        // 나머지 70% 확률로 '치치'를 뽑아버렸다!
-        
-
-
         
         for(int i = 0;  i< 10; i++)
         {
